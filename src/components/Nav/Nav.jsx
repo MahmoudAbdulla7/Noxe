@@ -148,7 +148,7 @@ export default function Nav({ userData, logOut }) {
                             }
                             to=""
                           >
-                            Register
+                            Login
                           </NavLink>
                         </li>
                         <li className="pe-3">
@@ -160,7 +160,7 @@ export default function Nav({ userData, logOut }) {
                             }
                             to="login"
                           >
-                            Login
+                            Register
                           </NavLink>
                         </li>
                       </>
